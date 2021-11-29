@@ -1,0 +1,5 @@
+文件资源管理器中找到你的csproject文件   notepad打开以后
+添加以下：
+  <PropertyGroup>
+	<LangVersion>preview</LangVersion>
+  </PropertyGroup>
